@@ -81,9 +81,8 @@ Below are unintended bias evaluation results for a subset of identities for two 
 
 
 ## Intersectional Identity Subgroup Evaluation
-The intersectional evaluation shows results for comments mentioning two identities.  
+The intersectional evaluation shows results for comments mentioning two identities.&nbsp;
 ![](https://github.com/conversationai/perspectiveapi/blob/lucy-model-card/model_cards/intersectional.png)
-
 
 #### Get involved
 If you have any questions, feedback, or additional things you'd like to see in the model card,
